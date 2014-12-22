@@ -1,0 +1,15 @@
+{
+  "name": "react-mixin-scopedcss",
+  "version": "0.1.0",
+  "description": "A React mixin for scoped style tags.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Branyen (@tbranyen)",
+  "license": "MIT",
+  "dependencies": {
+    "scopedcss": "^0.1.4",
+    "symbol": "^0.2.1"
+  }
+}
